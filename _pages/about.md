@@ -1,14 +1,21 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+👋 Hi, I’m @voderm, I’m a postgraduate student from [Schoolof CI](http://ci.hfut.edu.cn/), [Hefei University of Technology](http://www.hfut.edu.cn/).
+👀My research interest includes machine learning, recommender systerm. I also want to engage in the research of data mining algorithm in the future.
+🌱 Obviously, I am a student who has just started to study life. I hope to record my research life and learning comprehension through Github.
+I’m currently learning the knowledge graph convolutional networks(KGCN) for RS.I also want to share my notes after one more chapter.
+You can find my CV here: [voderm's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+💞️ So，If you are interested in learning and communicating with me, please contact me through the email below.
+📫 How to reach me ...
+[Email](leevoderm@gmail.com)/[Github](https://github.com/voderm)
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
